@@ -15,7 +15,7 @@
     "install": "cd client && npm install",
     "client": "cd client && npm start"
   },
-  },
+  
   "repository": {
     "type": "git",
     "url": "git+https://github.com/roxywasiak/my-text-editor.git"

@@ -6,7 +6,7 @@ This project builds a text editor that runs within the browser, showcasing skill
 
 # Heroku Link
 
-The application is deployed on Heroku please find it [here](https://aqueous-chamber-02565.herokuapp.com/)
+The application is deployed on Heroku please find it [HERE](https://aqueous-chamber-02565.herokuapp.com/)
 
 # How it works 📕
 
